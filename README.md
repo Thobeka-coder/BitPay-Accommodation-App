@@ -25,3 +25,7 @@ cd bitpay
 * npm install
 * expo start
 * npm run android / npm run ios
+
+
+![BitPay Login-Register](https://user-images.githubusercontent.com/59669252/160815176-3d543221-88ec-4722-b2b5-ce3e4b20c194.png)
+![BitPay HomeScreen- UnderConstruction](https://user-images.githubusercontent.com/59669252/160815280-996e2fb0-4916-436f-a3f4-50e203f228c9.png)
